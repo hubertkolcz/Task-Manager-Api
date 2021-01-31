@@ -5,11 +5,15 @@
 # Project of API that allows to create users and assign tasks to them.
 
 ## Table of contents
+
 * [Functionalities](#functionalities)
 * [Technologies](#technologies)
 * [Installation](#installation)
 * [Available Scripts](#available-scripts)
+* [Endpoints](#endpoints)
 * [Screenshots](#screenshots)
+
+_________________________________________________________________________________
 
 ## Functionalities
 
@@ -25,8 +29,12 @@
 * Fetching user's tasks
 * Deleting user's tasks
 
+_________________________________________________________________________________
+
 ## Technologies 
+
 ### JWToken Authentication, Node.js, Mongoose (MongoDB), jest (for testing purposes), bcryptjs for encrypting and, validator for validating credentials and sendgrid for sending emails.
+
 _________________________________________________________________________________
 
 ## Installation
@@ -36,10 +44,9 @@ To install all the dependencies correctly, you need to use Node in version 12.*.
 * After finishing the first step, make sure that your MongoDB database server is already running on port 27017.
 * Now you should be ready. Start with npm run start or npm run dev, to test the program.
 
-#_________________________________________________________________________________________________________
+_________________________________________________________________________________
 
 ## Available Scripts & Installation
-
 
 ### `npm start`
 
@@ -56,7 +63,16 @@ Runs the app in the development mode.<br />
 
 Launches the test runner in the interactive watch mode.<br />
 
-#_________________________________________________________________________________________________________
-```
+_________________________________________________________________________________
+
+## Endpoints
+
+
+
+__________________________________________________________________________________
+
 ## Screenshots
 
+<a href="https://ibb.co/zhTgLn5"><img src="https://i.ibb.co/SX4g1sx/API-postman-creating-user.png" alt="API-postman-creating-user" border="0"></a>
+<a href="https://ibb.co/FmL6RqM"><img src="https://i.ibb.co/WG4nmpw/API-users-overview.png" alt="API-users-overview" border="0"></a>
+<a href="https://ibb.co/6wkhK6J"><img src="https://i.ibb.co/B39Dh8K/API-tasks-overview.png" alt="API-tasks-overview" border="0"></a>
