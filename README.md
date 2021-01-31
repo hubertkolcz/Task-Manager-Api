@@ -67,7 +67,8 @@ ________________________________________________________________________________
 
 ## Endpoints
 
-
+Owierview of endpoints are available under the following link:
+https://github.com/lyonzee/Task-Manager-Api/blob/master/endpoints.md
 
 __________________________________________________________________________________
 
