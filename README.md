@@ -73,3 +73,4 @@ ________________________________________________________________________________
 <a href="https://ibb.co/zhTgLn5"><img src="https://i.ibb.co/SX4g1sx/API-postman-creating-user.png" alt="API-postman-creating-user" border="0"></a>
 <a href="https://ibb.co/FmL6RqM"><img src="https://i.ibb.co/WG4nmpw/API-users-overview.png" alt="API-users-overview" border="0"></a>
 <a href="https://ibb.co/6wkhK6J"><img src="https://i.ibb.co/B39Dh8K/API-tasks-overview.png" alt="API-tasks-overview" border="0"></a>
+<a href="https://ibb.co/HGssmK5"><img src="https://i.ibb.co/SV88q6F/API-tests-passed.png" alt="API-tests-passed" border="0"></a>
