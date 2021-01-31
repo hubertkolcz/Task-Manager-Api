@@ -1,8 +1,5 @@
 # Task-Manager-Api
-
-(Screenshots are under **_Available Scripts_** section)
-
-# Project of API that allows to create users and assign tasks to them.
+Project of API that allows to create users and assign tasks to them.
 
 ## Table of contents
 
@@ -32,8 +29,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________
 
 ## Technologies 
-
-### JWToken Authentication, Node.js, Mongoose (MongoDB), jest (for testing purposes), bcryptjs for encrypting and, validator for validating credentials and sendgrid for sending emails.
+JWToken Authentication, Node.js, Mongoose (MongoDB), jest (for testing purposes), bcryptjs for encrypting and, validator for validating credentials and sendgrid for sending emails.
 
 _________________________________________________________________________________
 
