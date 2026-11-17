@@ -38,6 +38,7 @@ ________________________________________________________________________________
 * Once you clone the repostory, go to the directory where it is existing. Then, install dependencies with npm script command.
 To install all the dependencies correctly, you need to use Node in version 12.*. You can switch to this version through NVM,
 * After finishing the first step, make sure that your MongoDB database server is already running on port 27017.
+* Copy `config/dev.env.example` to `config/dev.env` and `config/test.env.example` to `config/test.env`, then fill in your own `SENDGRID_API_KEY` and `JWT_SECRET`. These files are git-ignored.
 * Now you should be ready. Start with npm run start or npm run dev, to test the program.
 
 _________________________________________________________________________________

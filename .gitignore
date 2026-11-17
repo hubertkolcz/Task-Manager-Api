@@ -125,3 +125,6 @@ dist
 *.iml
 out
 gen
+
+# Local environment files with secrets
+config/*.env
